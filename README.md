@@ -2,7 +2,7 @@
 
 ## 🚀 Backend Engineer & AI Enthusiast
 
-I specialize in building scalable backend systems and integrating cutting-edge AI solutions. Passionate about creating robust APIs and intelligent systems that solve real-world problems.
+I specialize in building scalable backend systems and integrating AI solutions. Passionate about creating robust APIs and intelligent systems that solve real-world problems.
 
 ---
 
@@ -47,9 +47,9 @@ I specialize in building scalable backend systems and integrating cutting-edge A
 ## 💻 Featured Projects
 
 ### 🛒 **Ecommerce Platform**
-A full-stack ecommerce solution with FastAPI backend and React frontend. Features user authentication, shopping cart, checkout system, and admin dashboard with 20+ API endpoints.
+A full-stack ecommerce solution with FastAPI backend and React frontend. Features user authentication, shopping cart, checkout system, and admin dashboard.
 
-**Tech:** `Python` `FastAPI` `React` `PostgreSQL` `Redis`
+**Tech:** `Python` `FastAPI` `React` `PostgreSQL` `Tailwind CSS`
 
 [![View on GitHub](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ku5ha1/ecommerce)
 
@@ -86,7 +86,7 @@ Multi-agent AI system built with LangGraph and Google Gemini that conducts mock 
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<div>
 
 ![Kushal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ku5ha1&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
@@ -100,7 +100,7 @@ Multi-agent AI system built with LangGraph and Google Gemini that conducts mock 
 
 ## 📫 Let's Connect
 
-<div align="center">
+<div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushalraga20)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushalraga20@gmail.com)
