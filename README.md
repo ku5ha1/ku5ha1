@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Kushal Raga
 
-## 🚀 Backend Engineer & AI Enthusiast
+## 🚀 Backend & Gen AI Engineer
 
 I specialize in building scalable backend systems and integrating AI solutions. Passionate about creating robust APIs and intelligent systems that solve real-world problems.
 
