@@ -1,6 +1,6 @@
 # Kushal Raga
 
-## Backend & AI Systems Engineer
+## Backend & Gen AI Engineer
 
 ---
 
@@ -10,7 +10,7 @@ I am an engineer focused on delivering **scalable backend services** and **produ
 
 ---
 
-### 💡 Implemented Capabilities
+### 💡 Experience
 
 Key capabilities I have built and delivered solutions around:
 
