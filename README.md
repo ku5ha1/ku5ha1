@@ -1,6 +1,6 @@
 # Kushal Raga
 
-## Backend & Gen AI Engineer
+## AI Engineer
 
 ---
 
